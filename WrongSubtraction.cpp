@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//Changes
 int main()
 {
     long int n;
