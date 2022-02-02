@@ -18,6 +18,7 @@ string cvtDigit(string cmp)
 
 int main()
 {
+    //Changes
     string cmp = "";
     stack<char> store;
     string input;
